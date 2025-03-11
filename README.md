@@ -1,6 +1,6 @@
 # Mentoria FAMAF 2025 
 
-# Proyecto: ***El robo del Siglo ~ El plan secreto para predecir sitios fraudulentos***
+# Proyecto: ***El robo del siglo ~ El plan secreto para descifrar el detrás de escena de los sitios fraudulentos***
 
 <div align="center">
 
