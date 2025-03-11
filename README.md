@@ -11,7 +11,7 @@
 
 # Tabla de contenidos 📖
 - [Introduccion](#introduccion)
-- [Contexto Sanitario](#Contexto)
+- [Contexto](#Contexto)
   - [Objetivo](#objetivo)
 - [Contexto Analítico](#Contexto_Analítico)
   - [Diccionario de Datos](#diccionario_de_datos)
