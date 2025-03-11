@@ -1,6 +1,6 @@
 # Mentoria FAMAF 2025 
 
-# Proyecto: ***El robo del siglo ~ El plan secreto para descifrar el detrás de escena de los sitios fraudulentos***
+# Proyecto: ***El robo del siglo ~ Un plan secreto para descifrar el detrás de escena de sitios fraudulentos***
 
 <div align="center">
 
@@ -18,7 +18,7 @@
   - [Vista previa de los datos](#vista_previa_de_los_datos)
 - [FAQs](#faqs)
   - [¿Qué te sumaría participar en este proyecto?](#faq1)
-  - [Este proyecto es para vos si...](#faq2)
+  - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
 
 ## Introduccion 
 
@@ -89,26 +89,54 @@ Si te interesó la temática del proyecto, me gustaría compartirte algunas 'Adv
 
 ### Faq1 
 
+Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas a uno de estos perfiles:
 
-***Posología y forma de administración de los resultados hallados durante la mentoria***
+🛠️ El Ingeniero (hábil, resolutivo, técnico)
 
-🎯  El contexto es clave: proporcionar contexto es el equivalente a brindar un mapa de un hospital. Ayuda tanto a los involucrados en el proyecto, como a cualquier persona externa que tenga alcance al mismo, a “scrollear” a través de los datos, comprendiendo no solo el qué, sino el porqué. 
+Aprenderemos a diseñar y optimizar pipelines de datos, creando el "túnel" que nos permitirá acceder a la información clave.
 
-🩺  Claridad ante todo: al igual que una señal clara de emergencia, nuestros hallazgos deben destacar la información más crítica de manera comprensible a primera vista. La simplicidad muchas veces, no resta valor, lo amplifica. Se trabajará con la Metodología del Diamante como una forma de empezar a detectar/ampliar las ideas iniciales. 
+🕶️ El Hombre del Traje Gris (analítico, estratégico, discreto)
+
+Dominaremos el análisis exploratorio y la modelización de datos para detectar patrones ocultos, como quien observa sin ser visto.
+
+🗣️ El Negociador (comunicador, persuasivo, adaptable)
+
+Desarrollaremos habilidades para contar historias con datos y presentar hallazgos como un verdadero "negociador" e "interprete" de datos.
+
+👻 El Fantasma (silencioso, preciso, impredecible)
+
+Aprenderemos técnicas avanzadas de scraping y análisis de fraudes para predecir movimientos que a simple vista, se realizan sin dejar rastro en el mundo de los datos.
+
+💰 El Cerebro del Plan (visionario, líder, estratega)
+
+Podremos proponer nuevas estrategias y entre todos los integrandes del proyecto, asegurarnos de que el plan se ejecute a la perfección. 
 
 ### Faq2 
 
-***Este proyecto esta CONTRAINDICADO para vos en caso de que...***
+***Este proyecto NO es el indicado para vos en caso de que...***
 
-🚨  NO estes dispuesto/a a iterar end-to-end tantas veces como sea necesario y NO disfrutes afrontar los desafíos que implican los algoritmos de Machine Learning: al igual que los registros médicos interactivos, trabajaremos con las distintas funcionalidades de las librerías para Ciencia de Datos, que nos permitan desarrollar modelos capaces de interpretar y aprender de la naturaleza de los datos seleccionados. Además, apuntando a un enfoque multidimensional y poniendo el foco en las preguntas de interés, cruzaremos los datos bajo estudio con los datos obtenidos en el Censo Nacional 2022 y con información compatible de la API de Google para georreferenciar los establecimientos de salud. Y a medida que vallamos avanzado en el proyecto, se trasladaran los insights obtenidos al framework de Streamlit para convertir los scripts en una data apps y poder mostrarlos de manera más interactiva. Todo en Python puro y open source, no se requiere experiencia en front-end. Trabajando con Generative IA + Steamlit, lograremos el match perfecto.
+❌ No quieras formar parte de un equipo comprometido.
 
-💊  NO te guste crear visualizaciones con propósito y presentaciones atractivas: los colores y el diseño de la cartelería empleada en un establecimiento hospitalario, claramente no son solo estéticos. Son señales visuales que guían la atención, resaltan diferencias críticas y evocan experiencias. De igual manera, se abordará el proyecto mediante técnicas de storytelling (narrativa visual), por ejemplo, usando atributos preatentivos, esto es, atributos visuales que nuestro cerebro procesa sin necesidad de una acción consciente y trabajaremos con mapas, mapas y mas mapas.
+Aquí no hay lugar para improvisaciones. Como en el robo, cada pieza del plan debe encajar perfectamente.
 
-🚑  NO te comprometas a trabajar en equipo: El compromiso es un aspecto que a menudo se pasa por alto en los esfuerzos de colaboración y es fundamental para conseguir resultados de calidad entre las personas que trabajan en un tema concreto. Será necesario dedicar el tiempo suficiente para generar buenos aportes al proyecto, así como para apoyar las iniciativas de todos los integrantes de la mentoría.
+❌ Prefieras que te den todo servido en vez de investigar y resolver problemas.
 
+Si esperás que el túnel ya esté cavado y la ruta de escape lista, este no es tu golpe. Acá hay que ensuciarse las manos (metafóricamente hablando😏).
+
+❌ No te interese aprender nuevas habilidades.
+
+Si solo querés "estar", pero no "hacer", te va a costar mantenerte en el equipo. Todos aquí tienen un rol y una misión.
+
+❌ Te frustre demasiado encontrar obstáculos o fallar en el primer intento.
+
+Como en cualquier buen robo (o en Data Science), los planes deben ajustarse sobre la marcha. Si te rendís ante el primer muro, este no es tu proyecto.
+
+❌ No te guste analizar datos ni buscar patrones ocultos.
+
+Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y conectar puntos invisibles. Si no te atrae la investigación, la mejor sugerencia que puedo darte, es buscar otro desafío.
 
 **[⬆ Volver al inicio](#introduccion)**
 
-Gracias por haberte detenido en estas coordenadas, espero que te lleves algo útil del tiempo invertido ;) 
+Espero que el tiempo invertido te haya dejado algunos spoilers útiles. Esto es solo el comienzo… nos vemos dentro. 🚀💻
 
 By Noe Ferrero
