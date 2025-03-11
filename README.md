@@ -11,7 +11,7 @@
 
 # Tabla de contenidos 📖
 - [Introduccion](#introduccion)
-- [Contexto Sanitario](#Contexto_Sanitario)
+- [Contexto Sanitario](#Contexto)
   - [Objetivo](#objetivo)
 - [Contexto Analítico](#Contexto_Analítico)
   - [Diccionario de Datos](#diccionario_de_datos)
@@ -22,50 +22,45 @@
 
 ## Introduccion 
 
-
 En 2006, un grupo de ladrones vació el Banco Río de Acassuso, Buenos Aires, sin disparar un solo tiro.
 
 El saqueo quedó instalado en el imaginario social como El robo del siglo. Así lo bautizaron los medios cuando comenzaron a revelarse los detalles de un atraco tan meticuloso que parecía sacado de la mente de un guionista sofisticado: una toma de rehenes con armas de juguete, un túnel de 15 metros para trasladar el dinero, gomones, diques improvisados, la huida a través de las alcantarillas y un botín de 20 millones de dólares, además de joyas.
 
-Para que un plan –o un proyecto– sea exitoso, sus integrantes deben estar comprometidos. O mejor dicho, deben ser unos "grandes", unos "cracks". Y en esta historia lo fueron: en una época de violencia y muerte, lograron llevarse una fortuna sin disparar un arma ni lastimar a nadie.
+Para que un plan –o un proyecto– sea exitoso, sus integrantes deben ser grandes ideólogos, deben estar comprometidos; en una palabra, deben ser unos cracks. Y en esta historia lo fueron: en una época de violencia y muerte, lograron llevarse una fortuna sin disparar un arma ni lastimar a nadie.
 
 Pero su desafío no fue robar, sino a quién y cómo. Ahí es donde se traza el límite de la tolerancia.
 
-Como en todo gran plan, siempre hay un enigma por resolver. La película explica poco y muestra mucho: deja que las imágenes hablen por sí mismas. Y sin duda, ese es un acierto.
+Como en todo gran plan, siempre hay un enigma por resolver. La película explica poco y muestra mucho: deja que las imágenes hablen por sí mismas. Y, sin duda, ese es un acierto.
 
 En los primeros minutos, sin diálogo, uno de los protagonistas camina bajo la lluvia. Persigue un cigarrillo hasta que se le escurre en una alcantarilla, justo frente al Banco Río. Esa sola imagen basta para contarnos el nacimiento de una idea, de una obsesión, de un conflicto.
 
-Ahora vamos con, El robo del siglo: versión Data Science. 😏💻💰
+Ahora vamos con El robo del siglo: versión Data Science. Nuestro desafío es revelar ¿quién es quién? en el robo de datos a través de sitios fraudulentos. 😏💻💰
 
-
-
-
-
-
-## Contexto_Sanitario 
+## Contexto
 
 ### Objetivo 
 
-El objetivo principal del proyecto es utilizar técnicas de Ciencia de Datos para analizar y comprender la distribución de los establecimientos de salud y las especialidades médicas en todo el país. A partir de este análisis, se busca generar conocimientos que puedan ser utilizados para mejorar la planificación y la gestión de los recursos de salud a nivel nacional y provincial, así como para identificar posibles áreas de mejora (vulnerabilidad sanitaria).  
+Entrenar un modelo de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. 
+
+Se utilizará una combinación de datos reales y datos sintéticos para mejorar la calidad del entrenamiento.
 
 **[⬆ Volver al inicio](#introduccion)**
 
 ## Contexto_Analítico 
 
-Para el desarrollo de este proyecto se construyeron los siguientes dataset: 
+Para entrenar un modelo de Machine Learning, cuantas más observaciones disponibles, mejor será la generalización del modelo. Para generar un mix entre datos reales y datos sintéticos, se plantea de la siguiente manera:
 
-1.	Establecimientos de salud, con y sin internación, de todas las provincias y cuyo financiamiento es de origen público o de origen privado: Dataset conteniendo la mayor cantidad posible de establecimientos de salud de todo el país, con 40.682 registros resultantes luego de la integración. 
-2.	Médicos por jurisdicción según domicilio electoral: Información consolidada de las distintas especialidades médicas a nivel federal, según jurisdicción constatada por padrón electoral, con 76 registros discriminados por provincia.
-   
-En ambos casos, se requirió la descarga, limpieza y consistencia de diferentes fuentes de datos oficiales: 
+Datos reales
 
-📌 Base nacional de Hospitales y Centros de Atención Primaria: la misma fue compilada por el Sistema de Información Sanitaria Argentina (SISA), obtenido a través del SEDRONAR en el sitio de IDERA (http://catalogo.idera.gob.ar). 
+Se extraen la mayor cantidad posible de sitios .ar usando búsquedas automatizadas en Google, scraping de directorios web y bases de datos de dominios. Se obtienen las características princiaples a través de librerías como whois, requests, tldextract, etc. Se procede a estandarizar los registros resultantes y eliminar inconsistencias.
 
-📌 Establecimientos de salud del programa SUMAR: El sitio fue scrapeado para la obtención de los listados de los establecimientos con la dirección de cada centro de salud. 
+Datos sintéticos
 
-📌 Listados de hospitales y centros de atención de salud del Programa Nacional de Salud Sexual y Procreación Responsable (Ministerio de Salud) 
+Usando la librería Faker, se generan dominios falsos .ar con características realistas. Se crea una distribución similar a la de los datos reales (por ejemplo, si el 40% de los sitios reales tienen certificados SSL, se refleja esto en los datos sintéticos). Se aplican técnicas como oversampling para balancear las clases.
 
-📌 Otras fuentes a nivel provincial, generalmente, Ministerios o Secretarías de Salud. 
+Al convinar ambos enfoques, obtenemos las siguientes ventajas: ✅ Miles de registros reales (dependiendo de la cantidad de sitios .ar disponibles). ✅ Millones de registros sintéticos sin problema.
+
+Para comenzar, vamos a trabajar con alrededor de 100.000 registros (80% sintéticos, 20% reales) y luego escalar según los avances del proyecto.
 
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
