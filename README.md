@@ -133,7 +133,7 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 ***¿Cuál es el objetivo final de la mentoría?***
 
-Más allá de lo estrictamente académico, el propósito e impacto final de la mentoría es compartir las prácticas laborales más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral.
+Más allá de lo estrictamente académico, el propósito e impacto final de la mentoría es compartir las prácticas laborales/profesiones más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral tan buscada.
 
 **[⬆ Volver al inicio](#introduccion)**
 
