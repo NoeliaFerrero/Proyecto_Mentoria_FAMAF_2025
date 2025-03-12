@@ -1,11 +1,11 @@
 # Mentoria FAMAF 2025 
 
-# Proyecto: ***El robo del siglo ~ Un plan secreto para descifrar el detrás de escena de sitios fraudulentos***
+# Proyecto: 🎬 *El ROBO del SIGLO DIGITAL* - Un plan secreto contra el fraude online
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="30%">
 </p>
 </div>
 
@@ -19,6 +19,7 @@
 - [FAQs](#faqs)
   - [¿Qué te sumaría participar en este proyecto?](#faq1)
   - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
+  - [¿Cuál es el objetivo final de la mentoria?](#faq3)
 
 ## Introduccion 
 
@@ -40,9 +41,12 @@ Ahora vamos con El robo del siglo: versión Data Science. Nuestro desafío es re
 
 ### Objetivo 
 
-Entrenar un modelo de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. 
+Objetivo inicial:
+Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. Este enfoque inicial está abierto a ampliarse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. A medida que avancemos, se pondrá especial atención a los sitios de banca electrónica, con el objetivo de fortalecer la protección de los usuarios en estos entornos.
 
-Se utilizará una combinación de datos reales y datos sintéticos para mejorar la calidad del entrenamiento.
+Metodología:
+Se utilizará una combinación de datos reales y sintéticos para mejorar la calidad del entrenamiento, asegurando que los modelos puedan detectar diversas amenazas a medida que se amplía su alcance.
+
 
 **[⬆ Volver al inicio](#introduccion)**
 
@@ -52,7 +56,7 @@ Para entrenar un modelo de Machine Learning, cuantas más observaciones disponib
 
 Datos reales
 
-Se extraen la mayor cantidad posible de sitios .ar usando búsquedas automatizadas en Google, scraping de directorios web y bases de datos de dominios. Se obtienen las características princiaples a través de librerías como whois, requests, tldextract, etc. Se procede a estandarizar los registros resultantes y eliminar inconsistencias.
+Se extraen la mayor cantidad posible de sitios .ar usando búsquedas automatizadas en Google, scraping de directorios web y bases de datos de dominios. Se obtienen las características principales a través de librerías como Whois, Requests, Tldextract, etc. Se procede a estandarizar los registros resultantes y eliminar inconsistencias.
 
 Datos sintéticos
 
@@ -79,61 +83,57 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 |Notebook | Descripción | Link |
 |---|---|---|
-| 🐍 Proyecto Sin bajar la Guard.IA | Demo de conexión a los Set de datos | [Link](------https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+| 🐍 El robo del siglo digital | Demo de conexión a los Set de datos | [Link](------https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
  
 **[⬆ Volver al inicio](#introduccion)**
 
 ## FAQs
 
-Si te interesó la temática del proyecto, me gustaría compartirte algunas 'Advertencias y Precauciones' relacionadas con la modalidad de trabajo de esta Guard.IA, así podrás tenerlas en cuenta antes de sumergirte en el proyecto...
+Como en cualquier gran golpe, el éxito depende de que cada integrante entienda los riesgos y esté listo para la acción. Si esta misión despertó tu interés, quiero compartirte algunas 'reglas del juego' sobre la modalidad de trabajo, para que las tengas en cuenta antes de cruzar la puerta del banco... perdón, quise decir, antes de sumergirte en el proyecto.
 
 ### Faq1 
 
 Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas a uno de estos perfiles:
 
 🛠️ El Ingeniero (hábil, resolutivo, técnico)
-
-Aprenderemos a diseñar y optimizar pipelines de datos, creando el "túnel" que nos permitirá acceder a la información clave.
+Diseñaremos y optimizaremos pipelines de datos, creando el "túnel" que nos dará acceso a la información clave.
 
 🕶️ El Hombre del Traje Gris (analítico, estratégico, discreto)
-
 Dominaremos el análisis exploratorio y la modelización de datos para detectar patrones ocultos, como quien observa sin ser visto.
 
 🗣️ El Negociador (comunicador, persuasivo, adaptable)
-
-Desarrollaremos habilidades para contar historias con datos y presentar hallazgos como un verdadero "negociador" e "interprete" de datos.
+Aprenderemos a contar historias con datos y presentar hallazgos como verdaderos negociadores e intérpretes de la información.
 
 👻 El Fantasma (silencioso, preciso, impredecible)
-
-Aprenderemos técnicas avanzadas de scraping y análisis de fraudes para predecir movimientos que a simple vista, se realizan sin dejar rastro en el mundo de los datos.
+Exploraremos técnicas avanzadas de scraping y detección de fraudes para identificar movimientos que, a simple vista, parecen no dejar rastro.
 
 💰 El Cerebro del Plan (visionario, líder, estratega)
-
-Podremos proponer nuevas estrategias y entre todos los integrandes del proyecto, asegurarnos de que el plan se ejecute a la perfección. 
+Propondremos nuevas estrategias y, junto con el equipo, nos aseguraremos de que el plan se ejecute a la perfección.
 
 ### Faq2 
 
 ***Este proyecto NO es el indicado para vos en caso de que...***
 
-❌ No quieras formar parte de un equipo comprometido.
-
+❌ No estas dispuesto a formar parte de un equipo comprometido.
 Aquí no hay lugar para improvisaciones. Como en el robo, cada pieza del plan debe encajar perfectamente.
 
-❌ Prefieras que te den todo servido en vez de investigar y resolver problemas.
+❌ Preferís que te den todo servido en vez de investigar y resolver problemas.
+Si esperás que el túnel ya esté cavado y la ruta de escape lista, este no es tu golpe. Acá hay que ensuciarse las manos (metafóricamente hablando 😏).
 
-Si esperás que el túnel ya esté cavado y la ruta de escape lista, este no es tu golpe. Acá hay que ensuciarse las manos (metafóricamente hablando😏).
+❌ No te interesa aprender nuevas habilidades.
+Si solo querés "estar", pero no "hacer", te va a costar mantenerte en el equipo. Todos aquí tenemos un rol y una misión.
 
-❌ No te interese aprender nuevas habilidades.
-
-Si solo querés "estar", pero no "hacer", te va a costar mantenerte en el equipo. Todos aquí tienen un rol y una misión.
-
-❌ Te frustre demasiado encontrar obstáculos o fallar en el primer intento.
-
+❌ Te frustra demasiado encontrar obstáculos o fallar en el primer intento.
 Como en cualquier buen robo (o en Data Science), los planes deben ajustarse sobre la marcha. Si te rendís ante el primer muro, este no es tu proyecto.
 
-❌ No te guste analizar datos ni buscar patrones ocultos.
+❌ No te gusta analizar datos ni buscar patrones ocultos.
+Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y conectar puntos invisibles. Si la investigación no te atrae, lo mejor que podés hacer es buscar otro desafío.
 
-Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y conectar puntos invisibles. Si no te atrae la investigación, la mejor sugerencia que puedo darte, es buscar otro desafío.
+### Faq3
+
+***¿Cuál es el objetivo final de la mentoría?***
+
+Más allá de lo estrictamente académico, el propósito e impacto final de la mentoría es compartir las prácticas laborales más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral.
 
 **[⬆ Volver al inicio](#introduccion)**
 
