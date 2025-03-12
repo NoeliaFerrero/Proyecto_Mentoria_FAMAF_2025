@@ -76,7 +76,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 |Nombre Archivo | Link |
 |---|---|
-| Descrip_Data | [Link](https://github.com/NoeliaFerrero/Proyecto_MentoriaFAMAF_2024/blob/1934d95136ef5f2b25d6d71cb2c856353699ece8/DataSets/Descrip_data.csv)|
+| Descrip_Data | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/c623891c6379b6305300e35ee64df4de292b2c66/DataSets/Diccionario%20de%20Datos)|
 
 
 ### Vista_previa_de_los_Datos 
