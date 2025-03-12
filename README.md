@@ -69,8 +69,8 @@ Para comenzar, vamos a trabajar con alrededor de 100.000 registros (80% sintéti
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
 |---|---|---|---|---|---|---|
-| .CSV | 225  KB| `Sitios Web, Geolocalizacion`   | Tabular | 50.000  | 13 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sitios_reales.csv)|
-| .CSV | 2    KB| `Datos Sinteticos`              | Tabular | 25      | 10 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sintetico.csv)|
+| .CSV | 225  KB| `Sitios Web, Geolocalizacion`   | Tabular | 25      | 13 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sitios_reales.csv)|
+| .CSV | 2    KB| `Datos Sinteticos`              | Tabular | 50.000  | 10 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sintetico.csv)|
 
 ### Diccionario_de_Datos
 
