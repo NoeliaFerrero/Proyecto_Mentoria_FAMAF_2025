@@ -1,0 +1,30 @@
+📌 Dataset de Sitios Web en Argentina para Detección de Phishing
+Este dataset está diseñado para entrenar un modelo de Machine Learning que detecte sitios web de phishing en Argentina. 
+
+🔍 Características del Dataset
+Cada fila representa un sitio web .ar y contiene las siguientes características:
+
+🏷️ Información General del Sitio
+domain: Nombre del dominio (ejemplo: ejemplo.com.ar).
+url_length: Longitud total de la URL.
+tld: Dominio de nivel superior (ejemplo: .ar, .com.ar, .gob.ar).
+🔐 Seguridad y Certificados
+has_ssl: Indica si el sitio usa un certificado SSL (1 = Sí, 0 = No).
+ssl_issuer: Autoridad emisora del certificado SSL (si existe).
+is_https: Indica si el sitio usa https (1 = Sí, 0 = No).
+📈 Popularidad y Tráfico
+alexa_rank: Ranking global en Alexa (cuanto más bajo, más popular).
+dns_valid: Indica si el dominio tiene registros DNS válidos (1 = Sí, 0 = No).
+num_subdomains: Cantidad de subdominios detectados.
+🔎 Características de la URL
+has_ip_address: Indica si la URL contiene una dirección IP (1 = Sí, 0 = No).
+num_hyphens: Número de guiones en la URL.
+num_digits: Cantidad de números en la URL.
+num_special_chars: Cantidad de caracteres especiales (@, #, ?, %, etc.).
+num_path_segments: Número de segmentos en la ruta después del dominio.
+📌 Información WHOIS
+domain_age_days: Edad del dominio en días.
+whois_registrar: Registrador del dominio (NIC Argentina, GoDaddy, etc.).
+whois_country: País del registrador.
+🚨 Etiqueta (Target)
+is_phishing: Etiqueta de phishing (1 = Sitio malicioso, 0 = Sitio legítimo)
