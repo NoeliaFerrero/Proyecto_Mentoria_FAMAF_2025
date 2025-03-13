@@ -12,7 +12,7 @@
 # Tabla de contenidos 📖
 - [Introduccion](#introduccion)
 - [Contexto](#Contexto)
-  - [Objetivo](#objetivo)
+  - [Objetivo del Proyecto](#objetivo_del_proyecto)   
 - [Contexto Analítico](#Contexto_Analítico)
   - [Diccionario de Datos](#diccionario_de_datos)
   - [Vista previa de los datos](#vista_previa_de_los_datos)
@@ -39,13 +39,19 @@ Ahora vamos con El robo del siglo: versión Data Science. Nuestro desafío es re
 
 ## Contexto
 
-### Objetivo 
+### Objetivo_del_Proyecto
 
-Objetivo inicial:
-Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. Este enfoque inicial está abierto a ampliarse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. A medida que avancemos, se pondrá especial atención a los sitios de banca electrónica, con el objetivo de fortalecer la protección de los usuarios en estos entornos.
+El objetivo combina web scraping, análisis exploratorio y machine learning para estudiar el ecosistema web argentino y luego detectar sitios fraudulentos.
 
-Metodología:
-Se utilizará una combinación de datos reales y sintéticos para mejorar la calidad del entrenamiento, asegurando que los modelos puedan detectar diversas amenazas a medida que se amplía su alcance.
+Fase 1: 
+- Analizar las preferencias digitales de los usuarios en Argentina mediante el scraping del directorio Argendir, clasificando los sitios por categoría y tráfico estimado.
+- Ampliar el análisis para detectar sitios web de phishing y fraudes online, con especial atención a la banca electrónica y el comercio digital.
+Fase 2:
+- Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. Este enfoque inicial está abierto a ampliarse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. A medida que avancemos, se pondrá especial atención a los sitios de banca electrónica, con el objetivo de fortalecer la protección de los usuarios en estos entornos.
+
+Aclaración:
+
+En la era de la IA, las herramientas de automatización y generación de contenido han reducido drásticamente las barreras para crear sitios web en cuestión de segundos. Esto significa que los modelos de detección de amenazas deben ser cada vez más sofisticados para mantenerse a la par de los atacantes. Para lograrlo, utilizaremos una combinación de datos reales y sintéticos, ya que los fraudes digitales no solo se basan en patrones históricos, sino que también evolucionan constantemente con nuevas estrategias. Estos datos sintéticos nos permitirán simular escenarios de fraude emergentes y entrenar modelos más robustos para identificar amenazas, a medida que se amplía su alcance. 
 
 
 **[⬆ Volver al inicio](#introduccion)**
@@ -62,9 +68,12 @@ Datos sintéticos
 
 Usando la librería Faker, se generan dominios falsos .ar con características realistas. Se crea una distribución similar a la de los datos reales (por ejemplo, si el 40% de los sitios reales tienen certificados SSL, se refleja esto en los datos sintéticos). Se aplican técnicas como oversampling para balancear las clases.
 
-Al convinar ambos enfoques, obtenemos las siguientes ventajas: ✅ Miles de registros reales (dependiendo de la cantidad de sitios .ar disponibles). ✅ Millones de registros sintéticos sin problema.
+Al combinar ambos enfoques, obtenemos las siguientes ventajas: 
 
-Para comenzar, vamos a trabajar con alrededor de 100.000 registros (80% sintéticos, 20% reales) y luego escalar según los avances del proyecto.
+✅ Miles de registros reales (dependiendo de la cantidad de sitios .ar disponibles). 
+✅ Millones de registros sintéticos sin problema.
+
+Para comenzar, vamos a trabajar con alrededor de 80% de datos sintéticos y 20% reales. Este porcentaje luego seguirá escalando según los avances del proyecto.
 
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
@@ -93,10 +102,10 @@ Como en cualquier gran golpe, el éxito depende de que cada integrante entienda 
 
 ### Faq1 
 
-Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas a uno de estos perfiles:
+Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnamos uno de estos perfiles:
 
 🛠️ El Ingeniero (hábil, resolutivo, técnico)
-Diseñaremos y optimizaremos pipelines de datos, creando el "túnel" que nos dará acceso a la información clave.
+Diseñaremos y optimizaremos pipelines de datos, creando el "túnel" que nos dará acceso a la información clave. 
 
 🕶️ El Hombre del Traje Gris (analítico, estratégico, discreto)
 Dominaremos el análisis exploratorio y la modelización de datos para detectar patrones ocultos, como quien observa sin ser visto.
@@ -133,10 +142,10 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 ***¿Cuál es el objetivo final de la mentoría?***
 
-Más allá de lo estrictamente académico, el propósito e impacto final de la mentoría es compartir las prácticas laborales/profesiones más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral tan buscada.
+Más allá de lo estrictamente académico, donde armaremos un proyecto end-to-end de Ciencia de Datos, trabajando con datos reales y problemáticas de seguridad; el propósito e impacto final de la mentoría es compartir las prácticas laborales/profesiones más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral tan buscada.
 
 **[⬆ Volver al inicio](#introduccion)**
 
-Espero que el tiempo invertido te haya dejado algunos spoilers útiles. Esto es solo el comienzo… nos vemos dentro. 🚀💻
+Espero que el tiempo invertido te haya dejado algunos spoilers útiles. Esto es solo el comienzo…nos vemos dentro. 🚀💻
 
 By Noe Ferrero
