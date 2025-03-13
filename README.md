@@ -77,7 +77,10 @@ Al combinar ambos enfoques, obtenemos las siguientes ventajas:
 
 ✅ Millones de registros sintéticos sin problema.
 
-Para comenzar, vamos a trabajar con alrededor de 80% de datos sintéticos y 20% reales. Este porcentaje luego seguirá escalando según los avances del proyecto.
+Los datasets presentados representan una pequeña muestra inicial, extraída como caso de prueba para una categoría específica (por ejemplo, sitios de determinada temática). En el primer entregable se ampliará la cantidad de datos analizados, lo que permitirá generar una comprensión más profunda. Esta estrategia de trabajo, basada en un enfoque iterativo, asegura que el análisis se realice de manera escalonada y controlada, garantizando que los resultados sean consistentes y aplicables a medida que el roadmap avanza...
+
+Es importante resaltar que en la vida profesional real, este proceso de trabajar con una muestra inicial no es algo exclusivo de este caso de uso. En la mayoría de los proyectos de Data Science, primero recibimos una muestra representativa o de prueba para evaluar la calidad y la aplicabilidad de los datos. Solo una vez que damos el visto bueno o quedamos contratados, es cuando obtenemos acceso completo al conjunto de datos. Esta fase inicial es clave para asegurar que los datos cumplen con los requisitos y objetivos del proyecto, permitiendo realizar ajustes antes de trabajar con el volumen completo de información.
+
 
 
 Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N° Campos | Link |
