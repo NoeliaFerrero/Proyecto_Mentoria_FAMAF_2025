@@ -100,7 +100,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 |Notebook | Descripción | Link |
 |---|---|---|
-| 🐍 El robo del siglo digital | Demo de conexión a los Set de datos | [Link](------https://colab.research.google.com/drive/11ix1h6kQFJaYX3G78KJz68CCpWfgffML?usp=sharing) |
+| 🐍 El robo del siglo digital | Demo de conexión a los Set de datos | [Link](https://colab.research.google.com/drive/1rRdB_il4sG2VJXrSnEHvvGv5F8e4JmLt?usp=sharing) |
  
 **[⬆ Volver al inicio](#introduccion)**
 
