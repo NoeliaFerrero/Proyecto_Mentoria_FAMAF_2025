@@ -87,6 +87,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 |---|---|---|---|---|---|---|
 | .CSV | 225  KB| `Sitios Web, Geolocalizacion`   | Tabular | 25      | 13 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sitios_reales.csv)|
 | .CSV | 2    KB| `Datos Sinteticos`              | Tabular | 50.000  | 10 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sintetico.csv)|
+| .CSV | 3    KB| `Caso de uso Educacion`         | Tabular | 10      | 4  | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/6da755e6abeb592430c55a3f1836a5be6c421d06/DataSets/sitios_argentinos.csv)|
 
 ### Diccionario_de_Datos
 
