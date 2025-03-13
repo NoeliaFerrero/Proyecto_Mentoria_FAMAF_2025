@@ -1,15 +1,17 @@
 # Mentoria FAMAF 2025 
 
-# Proyecto: 🎬 *El ROBO del SIGLO DIGITAL* - Un plan secreto contra el fraude online
+<h1 align="center">Proyecto: 🎬 <em>El ROBO del SIGLO DIGITAL</em></h1>  
+<h3 align="center">Un plan secreto contra el fraude online</h3>
+
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="30%">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="35%">
 </p>
 </div>
 
-# Tabla de contenidos 📖
+# Ficha Técnica 📽️
 - [Introduccion](#introduccion)
 - [Contexto](#Contexto)
   - [Objetivo del Proyecto](#objetivo_del_proyecto)   
@@ -46,6 +48,7 @@ El objetivo combina web scraping, análisis exploratorio y machine learning para
 Fase 1: 
 - Analizar las preferencias digitales de los usuarios en Argentina mediante el scraping del directorio Argendir, clasificando los sitios por categoría y tráfico estimado.
 - Ampliar el análisis para detectar sitios web de phishing y fraudes online, con especial atención a la banca electrónica y el comercio digital.
+  
 Fase 2:
 - Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. Este enfoque inicial está abierto a ampliarse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. A medida que avancemos, se pondrá especial atención a los sitios de banca electrónica, con el objetivo de fortalecer la protección de los usuarios en estos entornos.
 
@@ -71,6 +74,7 @@ Usando la librería Faker, se generan dominios falsos .ar con características r
 Al combinar ambos enfoques, obtenemos las siguientes ventajas: 
 
 ✅ Miles de registros reales (dependiendo de la cantidad de sitios .ar disponibles). 
+
 ✅ Millones de registros sintéticos sin problema.
 
 Para comenzar, vamos a trabajar con alrededor de 80% de datos sintéticos y 20% reales. Este porcentaje luego seguirá escalando según los avances del proyecto.
@@ -102,7 +106,7 @@ Como en cualquier gran golpe, el éxito depende de que cada integrante entienda 
 
 ### Faq1 
 
-Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnamos uno de estos perfiles:
+Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas uno de estos perfiles:
 
 🛠️ El Ingeniero (hábil, resolutivo, técnico)
 Diseñaremos y optimizaremos pipelines de datos, creando el "túnel" que nos dará acceso a la información clave. 
@@ -142,7 +146,7 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 ***¿Cuál es el objetivo final de la mentoría?***
 
-Más allá de lo estrictamente académico, donde armaremos un proyecto end-to-end de Ciencia de Datos, trabajando con datos reales y problemáticas de seguridad; el propósito e impacto final de la mentoría es compartir las prácticas laborales/profesiones más comunes en la industria y transmitir, desde mi experiencia, cómo estar mejor preparado para enfrentar y aprovechar esa primera oportunidad laboral tan buscada.
+Más allá de lo estrictamente académico, en esta mentoría armaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarles a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
 
 **[⬆ Volver al inicio](#introduccion)**
 
