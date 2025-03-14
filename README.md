@@ -5,7 +5,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/d9476c4581c0ffb4a0ee3b4addefc1ac643dabb1/Un%20plan%20secreto%20contra%20el%20fraude%20online.png" width="40%">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/fa650be76572d686e4ce25bf2453fbdba77f82e8/Un%20plan%20secreto.png" width="40%">
 </p>
 </div>
 
@@ -103,11 +103,10 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 ## FAQs
 
-Como en cualquier gran golpe, el éxito depende de que cada integrante entienda los riesgos y esté listo para la acción. Si esta misión despertó tu interés, quiero compartirte algunas 'reglas del juego' sobre la modalidad de trabajo, para que las tengas en cuenta antes de cruzar la puerta del banco... perdón, quise decir, antes de sumergirte en el proyecto.
-
+Como en cualquier gran golpe, el éxito depende de que cada integrante entienda los riesgos y esté listo para la acción. Si esta misión despertó tu interés, quiero compartirte algunas 'reglas del juego' sobre la modalidad de trabajo, para que las tengas en cuenta antes de cruzar la puerta del banco…perdón, quise decir, antes de sumergirte en un proyecto que busca descifrar cómo ocurren los robos en el mundo digital, donde los ceros y unos son la moneda de cambio.
 ### Faq1 
 
-Al igual que en El robo del siglo, cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas uno de estos perfiles:
+Al igual que en "El robo del siglo", cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas uno de estos perfiles:
 
 🛠️ El Ingeniero (hábil, resolutivo, técnico)
 Diseñaremos y optimizaremos pipelines de datos, creando el "túnel" que nos dará acceso a la información clave. 
