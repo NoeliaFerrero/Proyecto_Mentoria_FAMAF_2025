@@ -1,17 +1,17 @@
 # Mentoria FAMAF 2025 
 
-<h1 align="center">Proyecto: 🎬 <em>El ROBO del SIGLO DIGITAL</em></h1>  
+<h1 align="center">Proyecto: 🎬 <em>El ROBO ~DIGITAL~ del SIGLO</em></h1>  
 <h3 align="center">Un plan secreto contra el fraude online</h3>
 
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="35%">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="40%">
 </p>
 </div>
 
-# Ficha Técnica 📽️
+# Sinopsis 📽️
 - [Introduccion](#introduccion)
 - [Contexto](#Contexto)
   - [Objetivo del Proyecto](#objetivo_del_proyecto)   
