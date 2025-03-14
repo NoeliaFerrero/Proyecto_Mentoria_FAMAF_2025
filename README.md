@@ -47,7 +47,9 @@ Fase 1:
 - Ampliar el análisis para detectar sitios web de phishing y fraudes online, con especial atención a la banca electrónica y el comercio digital.
   
 Fase 2:
-- Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina basándose en sus características. Este enfoque inicial está abierto a ampliarse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. A medida que avancemos, se pondrá especial atención a los sitios de banca electrónica, con el objetivo de fortalecer la protección de los usuarios en estos entornos.
+- Entrenar modelos de Machine Learning para detectar sitios web de phishing en Argentina, basándose en sus características.
+
+En un principio, se trabajará con algoritmos de aprendizaje supervisado, pero este enfoque inicial podrá expandirse hacia la detección de correos electrónicos maliciosos (spam) y otros tipos de fraudes online, según lo requiera el proyecto. Es decir, a medida que avancemos en el roadmap de dicho proyecto, se adoptará un enfoque flexible y se pondrá especial atención en el armado de estrategias integrales para fortalecer la protección de los usuarios, tanto en los sitios de banca electrónica como en las plataformas de e-commerce.
 
 Aclaración:
 
@@ -62,21 +64,21 @@ Para entrenar un modelo de Machine Learning, cuantas más observaciones disponib
 
 Datos reales
 
-Se extraen la mayor cantidad posible de sitios .ar usando búsquedas automatizadas en Google, scraping de directorios web y bases de datos de dominios. Se obtienen las características principales a través de librerías como Whois, Requests, Tldextract, etc. Se procede a estandarizar los registros resultantes y eliminar inconsistencias.
+Se extraerán la mayor cantidad posible de sitios .ar usando búsquedas automatizadas en Google, scraping de directorios web y bases de datos de dominios. Se obtendrán las características principales a través de librerías como Whois, Requests, Tldextract, etc. Y por ultimo, se procederá a estandarizar los registros resultantes y eliminar inconsistencias.
 
 Datos sintéticos
 
-Usando la librería Faker, se generan dominios falsos .ar con características realistas. Se crea una distribución similar a la de los datos reales (por ejemplo, si el 40% de los sitios reales tienen certificados SSL, se refleja esto en los datos sintéticos). Se aplican técnicas como oversampling para balancear las clases.
+Usando la librería Faker, se generarán dominios falsos .ar con características realistas. Se creará una distribución similar a la de los datos reales (por ejemplo, si el 40% de los sitios reales tienen certificados SSL, se reflejará esto en los datos sintéticos). Se aplicarán técnicas como oversampling para balancear las clases.
 
-Al combinar ambos enfoques, obtenemos las siguientes ventajas: 
+Al combinar ambos enfoques, obtendremos las siguientes ventajas: 
 
 ✅ Miles de registros reales (dependiendo de la cantidad de sitios .ar disponibles). 
 
 ✅ Millones de registros sintéticos sin problema.
 
-Los datasets presentados representan una pequeña muestra inicial, extraída como caso de prueba para una categoría específica (por ejemplo, sitios de determinada temática). En el primer entregable se ampliará la cantidad de datos analizados, lo que permitirá generar una comprensión más profunda. Esta estrategia de trabajo, basada en un enfoque iterativo, asegura que el análisis se realice de manera escalonada y controlada, garantizando que los resultados sean consistentes y aplicables a medida que el roadmap avanza...
+Los datasets presentados inicialmente representan una pequeña muestra, extraída como caso de prueba para una categoría específica (por ejemplo, sitios de determinada temática). En el primer entregable se ampliará la cantidad de datos analizados, lo que permitirá generar una comprensión más profunda. Esta estrategia de trabajo, basada en un enfoque iterativo, asegura que el análisis se realice de manera escalonada y controlada, garantizando que los resultados sean consistentes y aplicables a medida que el roadmap avanza...
 
-Es importante resaltar que en la vida profesional real, este proceso de trabajar con una muestra inicial no es algo exclusivo de este caso de uso. En la mayoría de los proyectos de Data Science, primero recibimos una muestra representativa o de prueba para evaluar la calidad y la aplicabilidad de los datos. Solo una vez que damos el visto bueno o quedamos contratados, es cuando obtenemos acceso completo al conjunto de datos. Esta fase inicial es clave para asegurar que los datos cumplen con los requisitos y objetivos del proyecto, permitiendo realizar ajustes antes de trabajar con el volumen de información completo.
+Es importante resaltar que en la vida profesional real, este proceso de trabajar con una muestra inicial no es algo exclusivo de este caso de uso. En la mayoría de los proyectos de Data Science, primero recibimos una muestra representativa o de prueba para evaluar la calidad y la aplicabilidad de los datos. Solo una vez que damos el visto bueno y/o quedamos contratados, es cuando obtenemos acceso completo al conjunto de datos. Esta fase inicial es clave para asegurar que los datos cumplen con los requisitos y objetivos del proyecto, permitiendo realizar ajustes antes de trabajar con el volumen de información completo.
 
 
 
@@ -103,7 +105,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 
 ## FAQs
 
-Como en cualquier gran golpe, el éxito depende de que cada integrante entienda los riesgos y esté listo para la acción. Si esta misión despertó tu interés, quiero compartirte algunas 'reglas del juego' sobre la modalidad de trabajo, para que las tengas en cuenta antes de cruzar la puerta del banco…perdón, quise decir, antes de sumergirte en un proyecto que busca descifrar cómo ocurren los robos en el mundo digital, donde los ceros y unos son la moneda de cambio.
+Como en cualquier gran golpe, el éxito depende de que cada integrante entienda los riesgos y esté listo para la acción. Si esta misión despertó tu interés, quiero compartirte algunas 'reglas del juego' sobre la modalidad de trabajo, para que las tengas en cuenta antes de cruzar la puerta del banco…perdón, quise decir, antes de sumergirte en un proyecto que busca descifrar cómo ocurren los robos en el mundo digital, donde ceros y unos son la moneda de cambio.
 ### Faq1 
 
 Al igual que en "El robo del siglo", cada integrante del equipo cumple un rol esencial en el éxito del plan. Participar en este proyecto te permitirá desarrollar habilidades clave en Data Science mientras encarnas uno de estos perfiles:
