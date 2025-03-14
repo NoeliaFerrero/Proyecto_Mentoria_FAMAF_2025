@@ -1,18 +1,16 @@
 # Mentoria FAMAF 2025 
 
 <h1 align="center">Proyecto: 🎬 <em>El ROBO ~DIGITAL~ del SIGLO</em></h1>  
-<h3 align="center">Un plan secreto contra el fraude online</h3>
 
 
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/bcc026f560f5e02d119e2826ca38789d5b0253b0/portadaV1__cleanup_cleanup.png" width="40%">
+  <img src="https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/d9476c4581c0ffb4a0ee3b4addefc1ac643dabb1/Un%20plan%20secreto%20contra%20el%20fraude%20online.png" width="40%">
 </p>
 </div>
 
-# Sinopsis 📽️
-- [Introduccion](#introduccion)
+- [Sinopsis](#Sinopsis) 📽️
 - [Contexto](#Contexto)
   - [Objetivo del Proyecto](#objetivo_del_proyecto)   
 - [Contexto Analítico](#Contexto_Analítico)
@@ -23,7 +21,7 @@
   - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
   - [¿Cuál es el objetivo final de la mentoria?](#faq3)
 
-## Introduccion 
+## Sinopsis 
 
 En 2006, un grupo de ladrones vació el Banco Río de Acassuso, Buenos Aires, sin disparar un solo tiro.
 
@@ -57,7 +55,7 @@ Aclaración:
 En la era de la IA, las herramientas de automatización y generación de contenido han reducido drásticamente las barreras para crear sitios web en cuestión de segundos. Esto significa que los modelos de detección de amenazas deben ser cada vez más sofisticados para mantenerse a la par de los atacantes. Para lograrlo, utilizaremos una combinación de datos reales y sintéticos, ya que los fraudes digitales no solo se basan en patrones históricos, sino que también evolucionan constantemente con nuevas estrategias. Estos datos sintéticos nos permitirán simular escenarios de fraude emergentes y entrenar modelos más robustos para identificar amenazas, a medida que se amplía su alcance. 
 
 
-**[⬆ Volver al inicio](#introduccion)**
+**[⬆ Volver al inicio](#Sinopsis)**
 
 ## Contexto_Analítico 
 
@@ -102,7 +100,7 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 |---|---|---|
 | 🐍 El robo del siglo digital | Demo de conexión a los Set de datos | [Link](https://colab.research.google.com/drive/1rRdB_il4sG2VJXrSnEHvvGv5F8e4JmLt?usp=sharing) |
  
-**[⬆ Volver al inicio](#introduccion)**
+**[⬆ Volver al inicio](#Sinopsis)**
 
 ## FAQs
 
@@ -152,7 +150,7 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 Más allá de lo estrictamente académico, en esta mentoría armaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarles a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
 
-**[⬆ Volver al inicio](#introduccion)**
+**[⬆ Volver al inicio](#Sinopsis)**
 
 Espero que el tiempo invertido te haya dejado algunos spoilers útiles. Esto es solo el comienzo…nos vemos dentro. 🚀💻
 
