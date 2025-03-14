@@ -1,7 +1,6 @@
 # Mentoria FAMAF 2025 
 
-<h1 align="center">Proyecto: 🎬 <em>El ROBO ~DIGITAL~ del SIGLO</em></h1>  
-
+<h1 align="center">Proyecto: 🎬 <em>El ROBO del SIGLO -> DIGITAL</em></h1>  
 
 <div align="center">
 
