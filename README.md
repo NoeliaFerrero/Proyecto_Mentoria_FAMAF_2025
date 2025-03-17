@@ -9,24 +9,13 @@
 </p>
 </div>
 
-- [Sinopsis](#Sinopsis) 📽️
-- [Contexto](#Contexto)
-  - [Objetivo del Proyecto](#objetivo_del_proyecto)   
-- [Contexto Analítico](#Contexto_Analítico)
-  - [Diccionario de Datos](#diccionario_de_datos)
-  - [Vista previa de los datos](#vista_previa_de_los_datos)
-- [FAQs](#faqs)
-  - [¿Qué te sumaría participar en este proyecto?](#faq1)
-  - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
-  - [¿Cuál es el objetivo final de la mentoria?](#faq3)
- 
-- [Sinopsis](#Sinopsis) 📽️
-- [El Plan Maestro](#Contexto)
-  - [Objetivo](#objetivo_del_proyecto)   
-- [Reconociendo el Terreno](#Contexto_Analítico)🏦
-  - [Mapeo de Datos](#diccionario_de_datos)
-  - [Recursos y Herramientas del equipo](#vista_previa_de_los_datos)
-- [FAQs](#faqs) 
+- 📽️[Sinopsis](#Sinopsis) 
+- [El Plan Maestro](#El_Plan_Maestro)
+  - [Objetivo](#objetivo)   
+- 🏦[Reconociendo el Terreno](#Reconociendo_el_Terreno)
+  - [Mapeo de Datos](#Mapeo_de_Datos)
+  - [Recursos y Herramientas del equipo](#Recursos_y_Herramientas_del_equipo)
+- 📢[FAQs](#faqs) 
   - [¿Qué te sumaría participar en este proyecto?](#faq1)
   - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
   - [¿Cuál es el objetivo final de la mentoria?](#faq3)
@@ -47,9 +36,9 @@ En los primeros minutos, sin diálogo, uno de los protagonistas camina bajo la l
 
 Ahora vamos con El robo del siglo: versión Data Science. Nuestro desafío es revelar ¿quién es quién? en el robo de datos a través de sitios fraudulentos. 😏💻💰
 
-## Contexto
+## El_Plan_Maestro
 
-### Objetivo_del_Proyecto
+### Objetivo
 
 El objetivo combina web scraping, análisis exploratorio y machine learning para estudiar el ecosistema web argentino y luego detectar sitios fraudulentos.
 
@@ -69,7 +58,7 @@ En la era de la IA, las herramientas de automatización y generación de conteni
 
 **[⬆ Volver al inicio](#Sinopsis)**
 
-## Contexto_Analítico 
+## Reconociendo_el_Terreno 
 
 Para entrenar un modelo de Machine Learning, cuantas más observaciones disponibles, mejor será la generalización del modelo. Para generar un mix entre datos reales y datos sintéticos, se plantea de la siguiente manera:
 
@@ -99,14 +88,14 @@ Tipo de Archivo | Tamaño | Etiquetas | Estructura de Datos | N° Registros | N�
 | .CSV | 2    KB| `Datos Sinteticos`              | Tabular | 50.000  | 10 | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/78d42ea5e2df5d23a654e5f2db557109964999da/DataSets/dataset_sintetico.csv)|
 | .CSV | 3    KB| `Caso de uso Educacion`         | Tabular | 10      | 4  | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/6da755e6abeb592430c55a3f1836a5be6c421d06/DataSets/sitios_argentinos.csv)|
 
-### Diccionario_de_Datos
+### Mapeo_de_Datos
 
 |Nombre Archivo | Link |
 |---|---|
 | Descrip_Data | [Link](https://github.com/NoeliaFerrero/Proyecto_Mentoria_FAMAF_2025/blob/c623891c6379b6305300e35ee64df4de292b2c66/DataSets/Diccionario%20de%20Datos)|
 
 
-### Vista_previa_de_los_Datos 
+### Recursos_y_Herramientas_del_equipo 
 
 |Notebook | Descripción | Link |
 |---|---|---|
@@ -159,12 +148,12 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 ***¿Cuál es el objetivo final de la mentoría?***
 
-Más allá de lo estrictamente académico, en esta mentoría armaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarles a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
+Más allá de lo estrictamente académico, en esta mentoría desarrollaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarles a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
 
 **[⬆ Volver al inicio](#Sinopsis)**
 
 ⚠️Espero que el tiempo invertido te haya dejado algunos spoilers útiles. 
 Si estás listo para convertirte en parte activa del equipo, súmate a la mentoría. 
-Esto fué solo el comienzo… 🚀💻
+Esto fue solo el comienzo… 🚀💻
 
 By Noe Ferrero
