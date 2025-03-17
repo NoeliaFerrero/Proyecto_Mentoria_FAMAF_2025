@@ -19,6 +19,17 @@
   - [¿Qué te sumaría participar en este proyecto?](#faq1)
   - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
   - [¿Cuál es el objetivo final de la mentoria?](#faq3)
+ 
+- [Sinopsis](#Sinopsis) 📽️
+- [El Plan Maestro](#Contexto)
+  - [Objetivo](#objetivo_del_proyecto)   
+- [Reconociendo el Terreno](#Contexto_Analítico)🏦
+  - [Mapeo de Datos](#diccionario_de_datos)
+  - [Recursos y Herramientas del equipo](#vista_previa_de_los_datos)
+- [FAQs](#faqs) 
+  - [¿Qué te sumaría participar en este proyecto?](#faq1)
+  - [Este proyecto NO es el indicado para vos en caso de que...](#faq2)
+  - [¿Cuál es el objetivo final de la mentoria?](#faq3)
 
 ## Sinopsis 
 
@@ -152,6 +163,8 @@ Más allá de lo estrictamente académico, en esta mentoría armaremos un proyec
 
 **[⬆ Volver al inicio](#Sinopsis)**
 
-Espero que el tiempo invertido te haya dejado algunos spoilers útiles. Esto es solo el comienzo…nos vemos dentro. 🚀💻
+⚠️Espero que el tiempo invertido te haya dejado algunos spoilers útiles. 
+Si estás listo para convertirte en parte activa del equipo, súmate a la mentoría. 
+Esto fué solo el comienzo… 🚀💻
 
 By Noe Ferrero
