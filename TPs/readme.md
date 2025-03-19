@@ -2,9 +2,7 @@
 
 El primer encuentro incluye una sesión de team building, en la que se configuran los equipos considerando el expertise de cada integrante. El objetivo es formar grupos equilibrados que potencien la colaboración y el aprendizaje mutuo durante la mentoría.
 
-Luego de cada entrega, cada grupo recibirá feedback sobre el trabajo realizado. Y, al finalizar la mentoría, se suma una **devolución individual** para cada integrante del equipo basada en los siguientes aspectos clave, con la intención de brindarles una perspectiva sobre su desempeño y destacar aquellas áreas en las que ya muestran solidez, así como aquellas en las que pueden seguir creciendo.  
-
-Estos puntos no solo son fundamentales en este proceso de aprendizaje, sino que también representan habilidades y actitudes altamente valoradas en el ámbito profesional.  
+Luego de cada entrega, cada grupo recibirá feedback sobre el trabajo realizado. Al finalizar la mentoría, cada integrante también recibirá una devolución individual, enfocada en brindarle una perspectiva sobre su desempeño, resaltando sus fortalezas y las áreas en las que puede seguir creciendo. Estos puntos no solo son fundamentales en este proceso de aprendizaje, sino que también representan habilidades y actitudes altamente valoradas en el ámbito profesional.  
 
 ### 📌 Conceptos a evaluar a nivel individual
 
@@ -25,4 +23,4 @@ El compromiso con las tareas asignadas es esencial. Se tendrá en cuenta el **re
 
 ---
 
-✅ **Esta devolución busca ayudarles a potenciar sus habilidades y prepararse para el mundo laboral, donde estos aspectos son determinantes para su crecimiento profesional.**
+✅ Ambas devoluciones, tanto la grupal como la individual, buscan ayudarlos a potenciar sus habilidades y prepararse para el mundo laboral, donde cada aspecto evaluativo es determinante para su crecimiento profesional. 
