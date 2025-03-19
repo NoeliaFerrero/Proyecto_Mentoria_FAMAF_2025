@@ -1,8 +1,8 @@
 ## Evaluación y Feedback en la Mentoría
 
-Después de cada entrega, los grupos de trabajo recibirán **feedback** sobre lo presentado y, al finalizar la mentoría, cada integrante recibirá una **devolución individual** basada en los siguientes aspectos clave.  
+El primer encuentro incluye una sesión de team building, en la que se configuran los equipos considerando el expertise de cada integrante. El objetivo es formar grupos equilibrados que potencien la colaboración y el aprendizaje mutuo durante la mentoría.
 
-El objetivo es brindarles una perspectiva sobre su desempeño y destacar aquellas áreas en las que ya muestran solidez, así como aquellas en las que pueden seguir creciendo.  
+Luego de cada entrega, cada grupo recibirá feedback sobre el trabajo realizado. Y, al finalizar la mentoría, se suma una **devolución individual** para cada integrante del equipo basada en los siguientes aspectos clave, con la intención de brindarles una perspectiva sobre su desempeño y destacar aquellas áreas en las que ya muestran solidez, así como aquellas en las que pueden seguir creciendo.  
 
 Estos puntos no solo son fundamentales en este proceso de aprendizaje, sino que también representan habilidades y actitudes altamente valoradas en el ámbito profesional.  
 
