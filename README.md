@@ -142,7 +142,7 @@ Si solo querés "estar", pero no "hacer", te va a costar mantenerte en el equipo
 Como en cualquier buen robo (o en Data Science), los planes deben ajustarse sobre la marcha. Si te rendís ante el primer muro, este no es tu proyecto.
 
 ❌ No te gusta analizar datos ni buscar patrones ocultos.
-Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y conectar puntos invisibles. Si la investigación no te atrae, lo mejor que podés hacer es buscar otro desafío.
+Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y conectar puntos invisibles. Si la investigación no te atrae, lo mejor que podés hacer es buscar otro desafío, pero dejame decirte que...todo lo relacionado a Ciencia de Datos, es por ahí 👀
 
 ### Faq3
 
