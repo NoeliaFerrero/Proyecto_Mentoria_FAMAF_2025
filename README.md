@@ -148,7 +148,7 @@ Este proyecto es para quienes disfrutan descifrar enigmas, leer entre líneas y 
 
 ***¿Cuál es el objetivo final de la mentoría?***
 
-Más allá de lo estrictamente académico, en esta mentoría desarrollaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarles a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
+Más allá de lo estrictamente académico, en esta mentoría desarrollaremos un proyecto end-to-end de Ciencia de Datos, abordando datos reales y problemáticas de seguridad, el objetivo e impacto final de la mentoría en sí, es compartirles las prácticas laborales/profesionales más comunes en la industria y, desde mi experiencia, ayudarlos a estar mejor preparados para aprovechar esa primera oportunidad laboral tan buscada.
 
 **[⬆ Volver al inicio](#Sinopsis)**
 
