@@ -98,7 +98,7 @@ df = pd.read_csv("archivo.csv")
 Un Dataset, en el contexto de BigQuery, es un contenedor lógico de tablas en la nube. Es una unidad de almacenamiento persistente y escalable, muy útil para proyectos en producción o colaborativos.
 
 ### Características principales:
--Vive en Google BigQuery (persistente en la nube)
+- Vive en Google BigQuery (persistente en la nube)
 - Contiene múltiples tablas relacionadas
 - Se accede y consulta con SQL
 - Puede compartirse fácilmente con otras personas
