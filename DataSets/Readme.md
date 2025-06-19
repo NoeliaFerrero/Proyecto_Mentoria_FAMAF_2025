@@ -109,12 +109,6 @@ Dataset: SitiosReales
 Tabla: sitios_argentinos_basico
 
 📊 Comparación rápida
-Concepto	DataFrame (pandas)	Dataset (BigQuery)
-¿Dónde vive?	En memoria (Colab, local)	En la nube (Google BigQuery)
-¿Qué contiene?	Datos en forma de tabla	Tablas (como archivos grandes en SQL)
-¿Temporal?	Sí	No (persistente)
-¿Se comparte?	Difícil sin guardarlo	Fácil con permisos y acceso en GCP
-¿Para qué sirve?	Análisis, visualización, modelo	Almacenamiento profesional y consultas
 
 |Concepto               | DataFrame (pandas)                                      | Dataset (BigQuery)                                      |
 |-----------------------|---------------------------------------------------------|---------------------------------------------------------|
